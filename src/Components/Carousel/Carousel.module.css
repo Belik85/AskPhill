@@ -1,0 +1,12 @@
+.carouselBox{
+    margin: 0 10px;
+    overflow-x:hidden !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.carImage{
+    max-width: 300px;
+    max-height: 400px;
+    overflow-x:hidden !important;
+}

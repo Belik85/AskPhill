@@ -1,0 +1,34 @@
+.containerMain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.itemBox {
+    display: flex;
+    align-items: center;
+}
+
+.itemOne {
+    padding: 0 20px;
+}
+
+.itemTwo {
+    min-width: 100px
+}
+
+.button {
+    margin-left: 10px;
+    margin-right: 6px;
+    font-weight: initial;
+    font-size: xx-large;
+}
+
+.header {
+    font-weight: initial;
+    font-size: xx-large;
+}
+
+.icon {
+    padding-right: 20px;
+}

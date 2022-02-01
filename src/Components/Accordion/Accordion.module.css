@@ -1,0 +1,11 @@
+.accordion{
+    width: 100%;
+    flex-wrap: wrap;
+    overflow-x: hidden !important;
+}
+
+.sx{
+    width: 33%;
+    flex-shrink: 0;
+    font-weight: bold;
+}

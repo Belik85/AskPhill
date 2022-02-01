@@ -1,0 +1,18 @@
+.imgContainer {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    overflow-x: hidden !important;
+}
+
+.mainImage {
+    width: 400px;
+    height: 400px;
+    padding-top: 25px;
+    margin: 0 10px;
+    overflow-x: hidden !important;
+}
+
+.text{
+    text-align: center;
+}
